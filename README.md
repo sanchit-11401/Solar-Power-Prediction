@@ -27,6 +27,4 @@ Solar power prediction, also known as solar irradiance forecasting, is an import
 
 13. **Visualizations:** Include visualizations of the data, model predictions, and evaluation results in your Jupyter Notebook or project documentation.
 
-14. **Push to GitHub:** Commit your project code and documentation to the local repository and push the changes to the remote GitHub repository.
 
-Remember that solar power prediction is a complex task influenced by various factors such as weather variability and geographical location. Therefore, it's essential to continually monitor and improve your model to enhance its accuracy and reliability.
